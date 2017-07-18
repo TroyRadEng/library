@@ -10,3 +10,5 @@
 * [small gritty and green](https://mitpress.mit.edu/books/small-gritty-and-green)
 * [urban homesteading](http://urban-homesteading.org/)
 * [the systems view of life](https://www.goodreads.com/book/show/18554985-the-systems-view-of-life)
+* [how cuba survived peak oil](https://www.amazon.com/Power-Community-Cuba-Survived-Peak/dp/0910420327)
+* [sociocracy](https://en.wikipedia.org/wiki/Sociocracy)
