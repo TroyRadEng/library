@@ -14,4 +14,4 @@
 * [sociocracy](https://en.wikipedia.org/wiki/Sociocracy)
 
 # programs
-* [northeast school of botanical medicine](7song.com)
+* [northeast school of botanical medicine](http://7song.com)
