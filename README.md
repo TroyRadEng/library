@@ -13,5 +13,8 @@
 * [how cuba survived peak oil](https://www.amazon.com/Power-Community-Cuba-Survived-Peak/dp/0910420327)
 * [sociocracy](https://en.wikipedia.org/wiki/Sociocracy)
 
+# documents
+* [Edible insects: Future prospects for food and feed security](http://www.fao.org/docrep/018/i3253e/i3253e00.htm)
+
 # programs
 * [northeast school of botanical medicine](http://7song.com)
