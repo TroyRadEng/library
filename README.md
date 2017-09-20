@@ -15,6 +15,7 @@
 
 # documents
 * [Edible insects: Future prospects for food and feed security](http://www.fao.org/docrep/018/i3253e/i3253e00.htm)
+* [spurse/eat your sidewalk](https://eatyoursidewalk.org/blogs/eating-your-sidewalk)
 
 # programs
 * [northeast school of botanical medicine](http://7song.com)
