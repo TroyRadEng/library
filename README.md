@@ -2,6 +2,7 @@
 * [historical ecology](https://en.wikipedia.org/wiki/Historical_ecology)
 * [synanthropes](https://en.wikipedia.org/wiki/Synanthrope)
 * [tek](https://en.wikipedia.org/wiki/Traditional_ecological_knowledge)
+* [kincentric ecology](https://www.fws.gov/nativeamerican/pdf/tek-salmon-2000.pdf)
 
 # books
 * [edible water gardens](https://www.booktopia.com.au/edible-water-gardens-nick-romanowski/prod9781864471021.html)
